@@ -1,5 +1,5 @@
 # sait-forex-
-http://forex.com
+url="www.forex.com/"
 
 <html lang="en"><head>
 <!-- BEGIN LivePerson Monitor. -->
